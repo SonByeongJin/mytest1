@@ -5,5 +5,6 @@ public class MyTest {
 		System.out.println("My Test1");
 		System.out.println("JYP and WWW");
 		System.out.println("hihihi");
-	}
+		System.out.println("YopYopYop");
+		}
 }
